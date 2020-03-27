@@ -1,0 +1,2 @@
+# nummanip
+Go Number utilities
